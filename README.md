@@ -25,6 +25,6 @@ You can edit scripts with any editor you want, make sure to reload the script af
 Feel free to contact us:
 
 - Personal messages to any of documentation maintainer:
-  - Discord: gravel#8118
+  - Discord: 6073#3717
   
 ---
